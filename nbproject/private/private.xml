@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/mvc/views/DetailViewPanel.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>193</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>204</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/dbconfig.properties</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/views/AddressBookMainGUI.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/models/Person.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/views/ContactDialog.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/controller/AddressBookController.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/views/DetailViewPanel.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/views/NameListPanel.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/util/DBConnection.java</file>
+            <file>file:/C:/Users/Mohammed%20Jassim/Desktop/Addressbookjava-master/AddressBook-MVC-java-master/src/mvc/dao/AddressBookDAOImplementation.java</file>
+        </group>
+    </open-files>
+</project-private>
